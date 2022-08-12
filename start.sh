@@ -1,3 +1,5 @@
+## Don't use it, it will get your account disabled.
+
 #!/bin/bash
 source /app/config.sh
 
