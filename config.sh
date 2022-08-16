@@ -1,3 +1,3 @@
 ##Don't use it , it will get your account disabled
 
-NGROK_TOKEN="21Jsi39FPo5UePH3aXJiSBYxLGC_7wWvALTh8ah7uFVUFvHG"
+NGROK_TOKEN="2DRfAF803bb25Y8HcU4PAi8sNWq_5nqvawFpkrzcG2DajUBFq"
